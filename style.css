@@ -48,6 +48,7 @@ button {
     background-color: #2148C0;
     color: white;
     margin-top: 20px;
+    cursor: pointer;
 }
 
 .text {
